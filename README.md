@@ -5,7 +5,7 @@ The whole project obeys GNU GENERAL PUBLIC LICENSE V3.
 
 All source code is published aiming to promote and archive.
 
-The author is not responsible for any plagiarism or academic plagiarism that may constitute.
+The author is not responsible for any potential risk or academic plagiarism that may constitute.
 
 The author's blog : issacl.top
 ## Update Log
